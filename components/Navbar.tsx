@@ -14,7 +14,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition">
               <h1 className="text-2xl font-bold text-blue-600">VCscout</h1>
               <span className="text-xs text-gray-500 bg-gray-100 px-2 py-1 rounded">
-                Beta
+                MVP
               </span>
             </Link>
           </div>
